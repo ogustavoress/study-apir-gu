@@ -1,4 +1,4 @@
-package com.github.gustavocarvalho.study_apir.Controller;
+package com.github.gustavocarvalho.study_apir.controller;
 
 
 import org.springframework.http.ResponseEntity;
